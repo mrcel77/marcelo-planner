@@ -2,7 +2,7 @@
   "name": "Meu Planner Digital",
   "short_name": "Planner",
   "description": "Meu planner personalizado estilo Cambridge",
-  "start_url": ".",
+  "start_url": "/marcelo-planner/",
   "display": "standalone",
   "background_color": "#f5f7fa",
   "theme_color": "#2c3e50",
