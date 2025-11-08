@@ -1,16 +1,21 @@
 {
-  "name": "Meu Planner Digital",
+  "name": "Marcelo Planner",
   "short_name": "Planner",
-  "description": "Meu planner personalizado estilo Cambridge",
-  "start_url": "/marcelo-planner/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#f5f7fa",
-  "theme_color": "#2c3e50",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>",
+      "src": "/icons/icon-192.png",
       "sizes": "192x192",
-      "type": "image/svg+xml"
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
 }
